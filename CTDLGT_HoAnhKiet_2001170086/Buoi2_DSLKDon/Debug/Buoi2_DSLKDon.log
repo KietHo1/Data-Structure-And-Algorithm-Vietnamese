@@ -1,0 +1,24 @@
+﻿Build started 7/12/2022 3:02:56 PM.
+     1>Project "D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Buoi2_DSLKDon\Buoi2_DSLKDon.vcxproj" on node 4 (Rebuild target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DSLKDon_PhanSo.cpp DSLKDon_PhanSo_Main.cpp
+         DSLKDon_PhanSo_Main.cpp
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi2_dslkdon\dslkdon_phanso_main.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+         DSLKDon_PhanSo.cpp
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi2_dslkdon\dslkdon_phanso.cpp(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi2_dslkdon\dslkdon_phanso.cpp(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi2_dslkdon\dslkdon_phanso.cpp(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+         Generating Code...
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi2_DSLKDon.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi2_DSLKDon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi2_DSLKDon.lib" /MACHINE:X86 Debug\DSLKDon_PhanSo.obj
+         Debug\DSLKDon_PhanSo_Main.obj
+         Buoi2_DSLKDon.vcxproj -> D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi2_DSLKDon.exe
+     1>Done Building Project "D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Buoi2_DSLKDon\Buoi2_DSLKDon.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.12

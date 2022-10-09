@@ -1,0 +1,38 @@
+﻿Build started 7/20/2022 2:32:41 PM.
+     1>Project "D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Buoi3_DSLKDon\Buoi3_DSLKDon.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DSLKDon_BaiHat.cpp
+         DSLKDon_BaiHat.cpp
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(229) : see declaration of 'fscanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(210) : see declaration of 'fopen'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : see declaration of 'getch'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(20): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(229) : see declaration of 'fscanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(52): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(253) : see declaration of 'stricmp'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(146): warning C4700: uninitialized local variable 'tmp' used
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi3_dslkdon\dslkdon_baihat.cpp(163): warning C4700: uninitialized local variable 'tmp' used
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi3_DSLKDon.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi3_DSLKDon.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi3_DSLKDon.lib" /MACHINE:X86 Debug\DSLKDon_BaiHat.obj
+         Debug\DSLKDon_BaiHat_Main.obj
+         Buoi3_DSLKDon.vcxproj -> D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi3_DSLKDon.exe
+     1>Done Building Project "D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Buoi3_DSLKDon\Buoi3_DSLKDon.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43

@@ -1,0 +1,28 @@
+﻿Build started 7/12/2022 3:02:57 PM.
+     1>Project "D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Buoi6_CayNP\Buoi6_CayNP.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CayNP_SoNguyen.cpp CayNP_SoNguyen_Main.cpp
+         CayNP_SoNguyen_Main.cpp
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(37): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio 2013\vc\include\stdio.h(282) : see declaration of 'scanf'
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(24): warning C4101: 'min' : unreferenced local variable
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(24): warning C4101: 'sum' : unreferenced local variable
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen_main.cpp(24): warning C4101: 'max' : unreferenced local variable
+         CayNP_SoNguyen.cpp
+     1>d:\ctdlgt_hoanhkiet_2001170086\ctdlgt_hoanhkiet_2001170086\buoi6_caynp\caynp_songuyen.cpp(8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : see declaration of 'getch'
+         Generating Code...
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi6_CayNP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi6_CayNP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi6_CayNP.lib" /MACHINE:X86 Debug\CayNP_SoNguyen.obj
+         Debug\CayNP_SoNguyen_Main.obj
+         Buoi6_CayNP.vcxproj -> D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Debug\Buoi6_CayNP.exe
+     1>Done Building Project "D:\CTDLGT_HoAnhKiet_2001170086\CTDLGT_HoAnhKiet_2001170086\Buoi6_CayNP\Buoi6_CayNP.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.91
